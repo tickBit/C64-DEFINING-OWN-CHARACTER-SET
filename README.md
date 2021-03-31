@@ -1,6 +1,6 @@
 # C64-DEFINING-OWN-CHARACTER-SET
 
-User defined multi color charcter set for the C64.
+User defined multi color character set for the C64.
 
 You need a C64 emulator to run the executable.
 
