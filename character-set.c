@@ -8,7 +8,7 @@
 /*
  User defined multicolor characters..
 
- Based on a BASIC program I've made as kid.
+ Based on a BASIC program I've made as a kid.
  I will try to later check from my old books, what those POKEs mean.. :-)
  ..and comment the source better... I hope I find the info...
 
